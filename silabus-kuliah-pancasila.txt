@@ -1,0 +1,175 @@
+Java Fundamental
+
+Referensi :
+- Java Tutorial, Sun Microsystem
+- SDK Documentation, Sun Microsystem
+- Java Desktop, Ifnu Bima
+
+Kebutuhan Software Lab
+SDK & Docs
+- Java SDK 1.6
+- Java API Documentation
+- Java Tutorial 
+
+Application Server
+- Apache Tomcat 6.0
+- MySQL 5.1
+
+Tools
+- Notepad++
+- Netbeans
+- Maven 3
+- Git
+
+Sebelum UTS
+Sesi 1 :
+- Intro
+  - Penjelasan Silabus
+- Setup / Instalasi Java
+- Version Control (Git)
+- Github
+Sesi 2 :
+- Anatomi Aplikasi Java
+- Classpath
+Sesi 3
+- Variabel dan Tipe Data
+Sesi 4
+- Operator
+- Control Flow (if-else, for/while)
+Sesi 5
+- Class & Object
+Sesi 6
+- Method
+- Exception
+Sesi 7
+- Konsep OOP
+Sesi 8
+- Inheritance
+Setelah UTS
+Sesi 9
+- Encapsulation
+Sesi 10
+- Polymorphism
+Sesi 11
+- Abstract Class & Interface
+Sesi 12
+- Composition & Aggregation
+Sesi 13
+- Studi Kasus / Tugas
+Sesi 14
+- Presentasi Kasus
+
+Pemrograman 2 : Essential Library
+Sebelum UTS
+- Build Tools
+- Automated Test
+- Collections
+- JDBC
+- String
+- Regular Expression
+Setelah UTS
+- Date & Time
+- Multithreading / Concurrency
+- File I/O
+- Network I/O
+- Popular Network Protocol (HTTP, FTP, SMTP, POP, IMAP)
+- Studi Kasus :
+  - Chat Application
+  - Social Network Client
+
+Pemrograman 3 : Desktop
+Sesi 01
+- Arsitektur Aplikasi Desktop
+  - Container
+  - Simple Widget
+  - Event Handling
+  - Data backed Widget
+- Hello Swing
+http://docs.oracle.com/javase/tutorial/uiswing/start/compile.html
+
+Sesi 02
+- Container
+  - Frame http://docs.oracle.com/javase/tutorial/uiswing/components/frame.html
+  - Dialog http://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
+  - Applet http://docs.oracle.com/javase/tutorial/uiswing/components/applet.html
+  - Panel http://docs.oracle.com/javase/tutorial/uiswing/components/panel.html
+  
+- Menu http://docs.oracle.com/javase/tutorial/uiswing/components/menu.html 
+
+Sesi 03
+- Layout Manager http://docs.oracle.com/javase/tutorial/uiswing/layout/using.html
+  - Border Layout http://docs.oracle.com/javase/tutorial/uiswing/layout/border.html
+  - Grid Layout http://docs.oracle.com/javase/tutorial/uiswing/layout/grid.html
+  - Flow Layout
+
+Sesi 04
+- Simple Component
+  - Text Field
+  - Button
+  - Checkbox
+  - Radio Button
+
+Sesi 05
+- Event Handling http://docs.oracle.com/javase/tutorial/uiswing/events/index.html
+  - ActionEvent
+  - MouseEvent
+
+Sesi 06
+- Complex Component
+  - Combo/Select
+  - List
+  
+Sesi 07
+- Swing Table
+  - JTable
+  - TableModel
+
+Sesi 08
+- Concurrent Execution http://docs.oracle.com/javase/tutorial/uiswing/concurrency/index.html
+  - Swing Worker
+  - Progress Bar
+
+Sesi 09
+- Internationalization 
+
+Sesi 10
+- Jasper Report
+  - Parameter
+  - Variable
+  - Report Datasource
+- iReport
+
+Sesi 11
+- Studi Kasus : 
+  - Aplikasi Kasir
+  - Aplikasi Perpustakaan
+ 
+- Requirement Specification
+  - Daftar Fitur
+  - Arsitektur
+  - Desain UI
+  - Desain Database
+
+Sesi 12
+- Implementasi Frame dan Menu
+- Implementasi Dummy Screen
+
+Sesi 13
+- Implementasi Proses Bisnis
+- Implementasi Akses Database
+
+Sesi 14
+- Implementasi Report
+
+
+
+Pemrograman 4 : Enterprise
+Sebelum UTS
+- Java Web Application
+- Servlet, Filter, Listener
+- JSP & JSTL
+- Security
+- AJAX
+
+Setelah UAS
+- Case Study
